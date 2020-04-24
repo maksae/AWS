@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWS.S3", "AWS.S3\AWS.S3.csproj", "{2B812B35-5834-4243-B921-A1086CDD5944}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B812B35-5834-4243-B921-A1086CDD5944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B812B35-5834-4243-B921-A1086CDD5944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B812B35-5834-4243-B921-A1086CDD5944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B812B35-5834-4243-B921-A1086CDD5944}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69B9A137-C612-4B30-B878-40EEB8BE06A4}
+	EndGlobalSection
+EndGlobal
